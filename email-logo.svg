@@ -2,29 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2000"
-   height="800"
-   viewBox="0 0 529.16675 211.6667"
+   width="525"
+   height="500.00003"
+   viewBox="0 0 138.90627 132.29169"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><rect
-       x="661.28992"
-       y="1036.4076"
-       width="1094.4155"
-       height="301.64102"
-       id="rect25" /><rect
-       x="661.28992"
-       y="1036.4076"
-       width="1094.4155"
-       height="301.64102"
-       id="rect25-0" /></defs><g
-     id="layer1"><g
+     id="defs1" /><g
+     id="layer1"
+     transform="translate(-43.048084,-47.876914)"><g
        style="clip-rule:evenodd;fill:#001c39;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
        id="g24"
-       transform="matrix(0.43373963,0,0,0.43373963,39.6875,39.687495)"><g
+       transform="matrix(0.43373963,0,0,0.43373963,43.048084,47.876909)"><g
          transform="translate(-12.49,-12.9962)"
          id="g1"
          style="fill:#001c39;fill-opacity:1">&#10;                      <path
@@ -162,18 +153,4 @@
          style="fill:#001c39;fill-opacity:1">&#10;                      <path
    d="M 209.92,133.91 C 196.12,117 173,113.18 147.37,123.18 c -15.72,6.12 -29.14,29.49 -25.69,46.06 4.17,19.9 16.83,35.25 37.24,41.65 34.44,10.78 63.17,-10.12 62.82,-43.55 0.193,-12.197 -4.003,-24.066 -11.82,-33.43 z m -44.16,52.36 c -9.28,-2.91 -15,-9.89 -16.93,-19 -1.58,-7.53 4.53,-18.16 11.69,-20.95 11.66,-4.55 22.17,-2.8 28.45,4.87 3.554,4.262 5.463,9.661 5.38,15.21 0.13,15.22 -13,24.73 -28.61,19.82 z"
    style="fill:#001c39;fill-opacity:1;fill-rule:nonzero"
-   id="path23" />&#10;                    </g></g><text
-       xml:space="preserve"
-       transform="matrix(11.062088,0,0,11.062088,-7095.4218,-11443.683)"
-       id="text25"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.29158px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;white-space:pre;shape-inside:url(#rect25);display:inline;fill:#001c39;fill-opacity:1"><tspan
-         x="661.28906"
-         y="1044.0289"
-         id="tspan1">Jawin</tspan></text><text
-       xml:space="preserve"
-       transform="matrix(11.062088,0,0,11.062088,-7049.9245,-11350.648)"
-       id="text25-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.10251px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;white-space:pre;shape-inside:url(#rect25-0);display:inline;fill:#001c39;fill-opacity:1"><tspan
-         x="661.28906"
-         y="1041.0979"
-         id="tspan2">Group</tspan></text></g></svg>
+   id="path23" />&#10;                    </g></g></g></svg>
